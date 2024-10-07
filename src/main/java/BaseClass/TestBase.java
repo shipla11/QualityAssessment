@@ -15,12 +15,12 @@ public class TestBase {
 
     public static WebDriver getDriver(){
         if (driver==null){
-            lunchBrowser();
+            launchBrowser();
         }
         return driver;
     }
 
-    public static WebDriver lunchBrowser() {
+    public static WebDriver launchBrowser() {
         ConfigReader reader = new ConfigReader();
         browser=ConfigReader.browser;
         url=ConfigReader.url;
