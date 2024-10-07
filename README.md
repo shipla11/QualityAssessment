@@ -10,7 +10,7 @@
 
 **Pom.xml**: Pom.xml is used to manage dependencies and plugins(Added dependencies like Selenium-java,apache poi,testng,cucumber junit)
 
-**Driver**:added chromedriver.exe
+**Driver**:added chromedriver.exe and msedgedriver.exe 
 
 **Pages**:Maintained seprate page for each web page
 LoginPage: This page is maintained for Login functionality(Added locators and their respective methods)
@@ -51,6 +51,12 @@ ButtonsClickSteps
 Added TestRunner to execute Testcases
 Provided Feature file path,Stepdefination file path and added plugin and tags to execute required testcases
 
+**Reporting**:
+Under target folder you can find cucumber-reports
+
+**Execution**:
+1.Execute through TestRunner.class
+2.Can execute through terminal mvn test
  
 
 
