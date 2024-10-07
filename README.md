@@ -3,9 +3,13 @@
 **Project Name**: QA_Assessment
 
 **Languages Used**: Java,BDD,Cucumber
+
 **IDE**: Intelij
+
 **Build tool**: Maven
+
 **Pom.xml**: Pom.xml is used to manage dependencies and plugins(Added dependencies like Selenium-java,apache poi,testng,cucumber junit)
+
 **Driver**:added chromedriver.exe
 
 **Pages**:Maintained seprate page for each web page
