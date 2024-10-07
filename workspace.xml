@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="917f0a3d-b2e2-453e-a243-5583f4e3a91e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mxio7oQKraGNn6Q97ZAEOBhfxy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TestRunner.executor": "Run",
+    "Maven.QA_Assessment [clean,compile,test].executor": "Run",
+    "Maven.QA_Assessment [clean,compile].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/NAGP_Exam/QA_Assessment/Drivers",
+    "onboarding.tips.debug.path": "D:/NAGP_Exam/QA_Assessment/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\NAGP_Exam\QA_Assessment\Drivers" />
+      <recent name="D:\NAGP_Exam\QA_Assessment\src\test\Resources\FeatureFiles" />
+      <recent name="D:\NAGP_Exam\QA_Assessment\src\main\resources" />
+      <recent name="D:\NAGP_Exam\QA_Assessment" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Pages" />
+      <recent name="StepDefination" />
+      <recent name="Utility" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA_Assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RunnerFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RunnerFile" />
+      <option name="MAIN_CLASS_NAME" value="RunnerFile.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="917f0a3d-b2e2-453e-a243-5583f4e3a91e" name="Changes" comment="" />
+      <created>1728024801740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728024801740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Utility/ConfigReader.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/StepDefination/TextBoxSubmitSteps.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
